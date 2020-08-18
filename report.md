@@ -16,7 +16,7 @@
 В процессе тестирования использовались следующие артефакты:
 * [Чек лист](https://docs.google.com/spreadsheets/d/1Enr6fLgAvkldRdG_ejC2t_Eu5NvCyyq4YtUeVIo_Cg8/edit?usp=sharing)
 
-В качестве тестовых данных использовались данные из [руководства использования](user-manual.md):
+В качестве тестовых данных использовались данные из [руководства использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 Валидные ключи:
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
