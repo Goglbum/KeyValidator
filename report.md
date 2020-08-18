@@ -7,16 +7,16 @@
 На тестирование затрачено: 0,5 ч.
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* [bug #1](https://github.com/Goglbum/KeyValidator/issues/1#issue-681025413)
+* [bug #2](https://github.com/Goglbum/KeyValidator/issues/2#issue-681031349)
+* [bug #3](https://github.com/Goglbum/KeyValidator/issues/3#issue-681033356)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 * [Чек лист](https://docs.google.com/spreadsheets/d/1Enr6fLgAvkldRdG_ejC2t_Eu5NvCyyq4YtUeVIo_Cg8/edit?usp=sharing)
 
-В качестве тестовых данных использовались данные из * [руководства использования](user-manual.md):
+В качестве тестовых данных использовались данные из [руководства использования](user-manual.md):
 
 Валидные ключи:
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
