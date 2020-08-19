@@ -7,9 +7,7 @@
 На тестирование затрачено: 0,5 ч.
 
 В результате тестирования выявлены следующие дефекты:
-* [bug #1](https://github.com/Goglbum/KeyValidator/issues/1#issue-681025413)
-* [bug #2](https://github.com/Goglbum/KeyValidator/issues/2#issue-681031349)
-* [bug #3](https://github.com/Goglbum/KeyValidator/issues/3#issue-681033356)
+* [bug](https://github.com/Goglbum/KeyValidator/issues/1#issue-681025413)
 
 ## Описание процесса тестирования
 
